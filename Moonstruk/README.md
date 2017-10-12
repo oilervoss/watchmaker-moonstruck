@@ -3,8 +3,8 @@
 The **Ulysse Nardin's Executive Moonstruck Worldtime** is a marvelous piece of engineering, astronomy, math, and art. Maybe, one day I'll be able to spare $75,000 (I prefer gold!). 
 
 See some pictures:
-http://quillandpad.com/2017/07/20/new-ulysse-nardin-moonstruck-worldtimer-simplifying-ultimate-astronomical-wristwatch/
-https://monochrome-watches.com/ulysse-nardin-executive-moonstruck-worldtimer-astronomical-watch-specs-price/
+- http://quillandpad.com/2017/07/20/new-ulysse-nardin-moonstruck-worldtimer-simplifying-ultimate-astronomical-wristwatch/
+- https://monochrome-watches.com/ulysse-nardin-executive-moonstruck-worldtimer-astronomical-watch-specs-price/
 
 
 Formulas from the book *Astronomical Algorithms - Jean Meeus*
