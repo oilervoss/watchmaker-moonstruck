@@ -1,4 +1,3 @@
-```lua
 -- main script
 -- 
 -- Formulas from the book Astronomical Algorithms - Jean Meeus
@@ -85,4 +84,3 @@ function JulianDay(y, m, d)
 	local d = d or {dd} + ( {dh23} + {dm} / 60 + s - var_offset ) / 24     --> UTC a day before or after
 	return JulianDay0(y,m,d)
 end
-```
