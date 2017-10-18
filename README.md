@@ -25,5 +25,5 @@ Main script file with Astronomical calculations: https://codeshare.io/29pxBM
 
 ![Ulysse Nardin Moonstruck Worldtime Silver Titanium](../../../www/raw/master/watchmaker/silver1.jpg "Ulysse Nardin Moonstruck Worldtime Titanium")
 ![Ulysse Nardin Moonstruck Worldtime Silver Titanium](../../../www/raw/master/watchmaker/silver2.jpg "Ulysse Nardin Moonstruck Worldtime Titanium")
-![Ulysse Nardin Moonstruck Worldtime Gold](../../../www/raw/master/watchmaker/golden1.jpg "Ulysse Nardin Moonstruck Worldtime Golden")
-![Ulysse Nardin Moonstruck Worldtime Gold](../../../www/raw/master/watchmaker/golden2.jpg "Ulysse Nardin Moonstruck Worldtime Golden")
+![Ulysse Nardin Moonstruck Worldtime Golden](../../../www/raw/master/watchmaker/gold1.jpg "Ulysse Nardin Moonstruck Worldtime Gold")
+![Ulysse Nardin Moonstruck Worldtime Golden](../../../www/raw/master/watchmaker/gold2.jpg "Ulysse Nardin Moonstruck Worldtime Gold")
