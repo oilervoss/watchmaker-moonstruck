@@ -1,6 +1,6 @@
 ### Download for Watchmaker
 
-[https://github.com/oilervoss/watchmaker-moonstruck/releases/download/3.2.0/ulysse-nardin-executive-moonstruck-worldtimer-3.2.0.watch](../../releases/download/3.2.0/ulysse-nardin-executive-moonstruck-worldtimer-3.2.0.watch)
+[Release 3.2.0](../../releases/download/3.2.0/ulysse-nardin-executive-moonstruck-worldtimer-3.2.0.watch)
 
 ---
 
